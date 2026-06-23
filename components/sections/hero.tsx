@@ -52,7 +52,7 @@ export function Hero() {
             digital growth strategies that help businesses thrive.
           </p>
           <div className="mt-9 flex flex-col gap-4 sm:flex-row">
-            <GradientButton href="#contact">Get Started</GradientButton>
+            <GradientButton href="#contact">Book A Free Consultation</GradientButton>
             <GradientButton href="#portfolio" variant="secondary">
               View Portfolio
             </GradientButton>
